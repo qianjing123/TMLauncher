@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="C:/Users/rmss/Desktop/Android4.3-Launcher/android-common_intermediates/classes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rmss/Desktop/Android4.3-Launcher/core_intermediates/classes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rmss/Desktop/Android4.3-Launcher/framework_intermediates/classes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rmss/Desktop/Android4.3-Launcher/android-support-v13.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
